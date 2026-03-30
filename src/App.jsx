@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import { Analytics } from "@vercel/analytics/next"
 import "./index.css";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
